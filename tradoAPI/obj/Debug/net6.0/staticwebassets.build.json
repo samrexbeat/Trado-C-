@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k1bGnehb1NnxgCNRrw9xmer1C4enOaD3P4u4hP1aCFs=",
+  "Source": "tradoAPI",
+  "BasePath": "_content/tradoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
